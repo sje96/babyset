@@ -20,3 +20,7 @@ The ```baby_set.py``` contains two errors that will cause your unit tests to fai
 
 ### Step 3. 
 Commit your changes and push to your remote repository.
+
+## Resources:
+- [about git fork](https://help.github.com/articles/fork-a-repo/)
+- [Python unittest module (builtin)](https://docs.python.org/3/library/unittest.html)
