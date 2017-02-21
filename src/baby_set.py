@@ -1,4 +1,3 @@
-# baby_set.py
 
 class BabySet:
 	""" A class the mimics the behavior of python's built in 

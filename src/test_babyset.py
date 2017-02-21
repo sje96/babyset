@@ -1,4 +1,3 @@
-# test_babyset.py
 import unittest
 
 from baby_set import BabySet
